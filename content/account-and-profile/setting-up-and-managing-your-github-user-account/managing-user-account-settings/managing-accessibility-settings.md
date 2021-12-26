@@ -1,4 +1,6 @@
----
+michelebraun@mdmgeneral548.onmicrosoft.com
+*Michele M Braun---
+
 title: Managing accessibility settings
 intro: 'You can disable character key shortcuts on {% data variables.product.prodname_dotcom %} in your accessibility settings.'
 versions:
